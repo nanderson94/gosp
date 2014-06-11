@@ -1,0 +1,3 @@
+[submodule "birds-with-arms"]
+	path = birds-with-arms
+	url = git@github.com:jrouly/birds-with-arms.git
